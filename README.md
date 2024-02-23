@@ -44,7 +44,7 @@ sentiment-analysis-llm/
 
 The main findings of the code can be found at the post:
 
-"Sentiment Analysis of Customer Product Reviews using Large Language Model (LLM)" available [here]().
+"Sentiment Analysis of Customer Product Reviews using Large Language Model (LLM)" available [here](https://eneuburg.medium.com/large-language-model-llm-a-sentiment-analysis-with-customer-product-reviews-a56885593d70).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
  
